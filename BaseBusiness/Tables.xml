@@ -1,0 +1,118 @@
+<Tables>
+
+	<Table>
+		<name>AddAutoXKNew</name>
+		<column>
+			<name>iD</name>
+			<dataType>int</dataType>
+			<isPK>true</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias></alias>
+			<number>0</number>
+		</column>
+		<column>
+			<name>orderCode</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Order Code</alias>
+			<number>1</number>
+		</column>
+		<column>
+			<name>pID</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>P</alias>
+			<number>2</number>
+		</column>
+		<column>
+			<name>kT1</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>K T1</alias>
+			<number>3</number>
+		</column>
+		<column>
+			<name>kT2</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>K T2</alias>
+			<number>4</number>
+		</column>
+		<column>
+			<name>kN1</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>K N1</alias>
+			<number>5</number>
+		</column>
+		<column>
+			<name>kN2</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>K N2</alias>
+			<number>6</number>
+		</column>
+		<column>
+			<name>kCasse</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>K Casse</alias>
+			<number>7</number>
+		</column>
+		<column>
+			<name>kMotor</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>K Motor</alias>
+			<number>8</number>
+		</column>
+		<column>
+			<name>createDate</name>
+			<dataType>datetime</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Create Date</alias>
+			<number>9</number>
+		</column>
+		<column>
+			<name>cnt</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Cnt</alias>
+			<number>10</number>
+		</column>
+	</Table>
+
+</Tables>
+

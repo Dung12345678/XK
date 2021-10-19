@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{059AE159-539C-41C2-B62B-5C246731BD48}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BaseBusiness</RootNamespace>
+    <AssemblyName>BaseBusiness</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Printing.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BO\ActivityLogBO.cs" />
+    <Compile Include="BO\AddAutoXKNewBO.cs" />
+    <Compile Include="BO\AndonBO.cs" />
+    <Compile Include="BO\AndonConfigBO.cs" />
+    <Compile Include="BO\AndonDetailBO.cs" />
+    <Compile Include="BO\AssemblyStockBO.cs" />
+    <Compile Include="BO\AutoAddXKBO.cs" />
+    <Compile Include="BO\AutoAddXKColorBO.cs" />
+    <Compile Include="BO\BaseBO.cs" />
+    <Compile Include="BO\BaseBusinessBO.cs" />
+    <Compile Include="BO\CompanyBO.cs" />
+    <Compile Include="BO\ConfigSystemBO.cs" />
+    <Compile Include="BO\CustomerBO.cs" />
+    <Compile Include="BO\DepartmentBO.cs" />
+    <Compile Include="BO\EventsLogBO.cs" />
+    <Compile Include="BO\EventsLogErrorBO.cs" />
+    <Compile Include="BO\FormAndFunctionBO.cs" />
+    <Compile Include="BO\FormAndFunctionGroupBO.cs" />
+    <Compile Include="BO\HistoryShelfMotorBO.cs" />
+    <Compile Include="BO\LocationBO.cs" />
+    <Compile Include="BO\ManufacturerBO.cs" />
+    <Compile Include="BO\OrderPartBO.cs" />
+    <Compile Include="BO\PartOutBO.cs" />
+    <Compile Include="BO\PartOutDetailBO.cs" />
+    <Compile Include="BO\PartSonBO.cs" />
+    <Compile Include="BO\ProductBO.cs" />
+    <Compile Include="BO\ProductCheckHistoryBO.cs" />
+    <Compile Include="BO\ProductCheckHistoryDetailBO.cs" />
+    <Compile Include="BO\ProductGroupBO.cs" />
+    <Compile Include="BO\ProductTypeBO.cs" />
+    <Compile Include="BO\SettingFFTBO.cs" />
+    <Compile Include="BO\SettingRatioRoundBO.cs" />
+    <Compile Include="BO\SettingStandardValueBO.cs" />
+    <Compile Include="BO\ShelfBO.cs" />
+    <Compile Include="BO\ShorcutKeyBO.cs" />
+    <Compile Include="BO\SkipOrderBO.cs" />
+    <Compile Include="BO\SONHistoryImExBO.cs" />
+    <Compile Include="BO\SonPlanBO.cs" />
+    <Compile Include="BO\StatusColorStockBO.cs" />
+    <Compile Include="BO\StockCDBO.cs" />
+    <Compile Include="BO\SupplierBO.cs" />
+    <Compile Include="BO\UserGroupBO.cs" />
+    <Compile Include="BO\UserGroupLinkBO.cs" />
+    <Compile Include="BO\UserGroupRightDistributionBO.cs" />
+    <Compile Include="BO\UserRightDistributionBO.cs" />
+    <Compile Include="BO\UsersBO.cs" />
+    <Compile Include="BO\SessionBO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BO\WorkingBO.cs" />
+    <Compile Include="BO\WorkingStepBO.cs" />
+    <Compile Include="Exceptions\BOException.cs" />
+    <Compile Include="Exceptions\FacadeException.cs" />
+    <Compile Include="Exceptions\ViewException.cs" />
+    <Compile Include="Facade\ActivityLogFacade.cs" />
+    <Compile Include="Facade\AddAutoXKNewFacade.cs" />
+    <Compile Include="Facade\AndonConfigFacade.cs" />
+    <Compile Include="Facade\AndonDetailFacade.cs" />
+    <Compile Include="Facade\AndonFacade.cs" />
+    <Compile Include="Facade\AssemblyStockFacade.cs" />
+    <Compile Include="Facade\AutoAddXKColorFacade.cs" />
+    <Compile Include="Facade\AutoAddXKFacade.cs" />
+    <Compile Include="Facade\BaseFacade.cs" />
+    <Compile Include="Facade\CompanyFacade.cs" />
+    <Compile Include="Facade\ConfigSystemFacade.cs" />
+    <Compile Include="Facade\CustomerFacade.cs" />
+    <Compile Include="Facade\DepartmentFacade.cs" />
+    <Compile Include="Facade\EventsLogErrorFacade.cs" />
+    <Compile Include="Facade\EventsLogFacade.cs" />
+    <Compile Include="Facade\FormAndFunctionFacade.cs" />
+    <Compile Include="Facade\FormAndFunctionGroupFacade.cs" />
+    <Compile Include="Facade\HistoryShelfMotorFacade.cs" />
+    <Compile Include="Facade\LocationFacade.cs" />
+    <Compile Include="Facade\ManufacturerFacade.cs" />
+    <Compile Include="Facade\OrderPartFacade.cs" />
+    <Compile Include="Facade\PartOutDetailFacade.cs" />
+    <Compile Include="Facade\PartOutFacade.cs" />
+    <Compile Include="Facade\PartSonFacade.cs" />
+    <Compile Include="Facade\ProductCheckHistoryDetailFacade.cs" />
+    <Compile Include="Facade\ProductCheckHistoryFacade.cs" />
+    <Compile Include="Facade\ProductFacade.cs" />
+    <Compile Include="Facade\ProductGroupFacade.cs" />
+    <Compile Include="Facade\ProductTypeFacade.cs" />
+    <Compile Include="Facade\SettingFFTFacade.cs" />
+    <Compile Include="Facade\SettingRatioRoundFacade.cs" />
+    <Compile Include="Facade\SettingStandardValueFacade.cs" />
+    <Compile Include="Facade\ShelfFacade.cs" />
+    <Compile Include="Facade\ShiftFacade.cs" />
+    <Compile Include="Facade\ShorcutKeyFacade.cs" />
+    <Compile Include="Facade\SkipOrderFacade.cs" />
+    <Compile Include="Facade\SONHistoryImExFacade.cs" />
+    <Compile Include="Facade\SonPlanFacade.cs" />
+    <Compile Include="Facade\StatusColorStockFacade.cs" />
+    <Compile Include="Facade\StockCDFacade.cs" />
+    <Compile Include="Facade\SupplierFacade.cs" />
+    <Compile Include="Facade\UserGroupFacade.cs" />
+    <Compile Include="Facade\UserGroupLinkFacade.cs" />
+    <Compile Include="Facade\UserGroupRightDistributionFacade.cs" />
+    <Compile Include="Facade\UserRightDistributionFacade.cs" />
+    <Compile Include="Facade\UsersFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Facade\SessionFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Facade\WorkingFacade.cs" />
+    <Compile Include="Facade\WorkingStepFacade.cs" />
+    <Compile Include="Model\ActivityLogModel.cs" />
+    <Compile Include="Model\AddAutoXKNewModel.cs" />
+    <Compile Include="Model\AndonConfigModel.cs" />
+    <Compile Include="Model\AndonDetailModel.cs" />
+    <Compile Include="Model\AndonModel.cs" />
+    <Compile Include="Model\AssemblyStockModel.cs" />
+    <Compile Include="Model\AutoAddXKColorModel.cs" />
+    <Compile Include="Model\AutoAddXKModel.cs" />
+    <Compile Include="Model\BaseModel.cs" />
+    <Compile Include="Model\CompanyModel.cs" />
+    <Compile Include="Model\ConfigSystemModel.cs" />
+    <Compile Include="Model\CustomerModel.cs" />
+    <Compile Include="Model\DepartmentModel.cs" />
+    <Compile Include="Model\EventsLogErrorModel.cs" />
+    <Compile Include="Model\EventsLogModel.cs" />
+    <Compile Include="Model\FormAndFunctionGroupModel.cs" />
+    <Compile Include="Model\FormAndFunctionModel.cs" />
+    <Compile Include="Model\HistoryShelfMotorModel.cs" />
+    <Compile Include="Model\LocationModel.cs" />
+    <Compile Include="Model\ManufacturerModel.cs" />
+    <Compile Include="Model\NotUseAttribute.cs" />
+    <Compile Include="Model\OrderPartModel.cs" />
+    <Compile Include="Model\PartOutDetailModel.cs" />
+    <Compile Include="Model\PartOutModel.cs" />
+    <Compile Include="Model\PartSonModel.cs" />
+    <Compile Include="Model\ProductCheckHistoryDetailModel.cs" />
+    <Compile Include="Model\ProductCheckHistoryModel.cs" />
+    <Compile Include="Model\ProductGroupModel.cs" />
+    <Compile Include="Model\ProductModel.cs" />
+    <Compile Include="Model\ProductTypeModel.cs" />
+    <Compile Include="Model\ProductWorkingModel.cs" />
+    <Compile Include="Model\ProjectModel.cs" />
+    <Compile Include="Model\SettingFFTModel.cs" />
+    <Compile Include="Model\SettingRatioRoundModel.cs" />
+    <Compile Include="Model\SettingStandardValueModel.cs" />
+    <Compile Include="Model\ShelfModel.cs" />
+    <Compile Include="Model\ShiftModel.cs" />
+    <Compile Include="Model\ShorcutKeyModel.cs" />
+    <Compile Include="Model\SkipOrderModel.cs" />
+    <Compile Include="Model\SONHistoryImExModel.cs" />
+    <Compile Include="Model\SonPlanModel.cs" />
+    <Compile Include="Model\StatusColorStockModel.cs" />
+    <Compile Include="Model\StockCDModel.cs" />
+    <Compile Include="Model\SupplierModel.cs" />
+    <Compile Include="Model\UpdateSoftwareModel.cs" />
+    <Compile Include="Model\UserGroupLinkModel.cs" />
+    <Compile Include="Model\UserGroupModel.cs" />
+    <Compile Include="Model\UserGroupRightDistributionModel.cs" />
+    <Compile Include="Model\UserRightDistributionModel.cs" />
+    <Compile Include="Model\UsersModel.cs" />
+    <Compile Include="Model\SessionModel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\WorkingModel.cs" />
+    <Compile Include="Model\WorkingStepModel.cs" />
+    <Compile Include="Object\ObservableObject.cs" />
+    <Compile Include="Object\WeighObj.cs" />
+    <Compile Include="Permissions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\DefValues.cs" />
+    <Compile Include="Utils\FTPFactory.cs" />
+    <Compile Include="_Base\FormBase\_UserControls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Base\FormBase\_UserControls.Designer.cs">
+      <DependentUpon>_UserControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\VCDateTime.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\FormBase\_Forms.resx">
+      <DependentUpon>_Forms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\FormBase\_UserControls.resx">
+      <DependentUpon>_UserControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\Popup\frmPopupBase.resx">
+      <DependentUpon>frmPopupBase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\Popup\frmPopupSearch.resx">
+      <DependentUpon>frmPopupSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\Popup\PopupBox.resx">
+      <DependentUpon>PopupBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\Popup\PopupBoxPublic.resx">
+      <DependentUpon>PopupBoxPublic.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ShortcutKey.cs" />
+    <Compile Include="Utils\BetweenExpression.cs" />
+    <Compile Include="Utils\CommunicationManager.cs" />
+    <Compile Include="Utils\DataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Utils\DBUtils.cs" />
+    <Compile Include="Utils\Expression.cs" />
+    <Compile Include="Utils\FTPFactory1.cs" />
+    <Compile Include="Utils\Global.cs" />
+    <Compile Include="_Base\InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\MD5.cs" />
+    <Compile Include="Utils\ProcessTransaction.cs" />
+    <Compile Include="Utils\PropertyUtils.cs" />
+    <Compile Include="Utils\SecUtils.cs" />
+    <Compile Include="Utils\SQLHelper.cs" />
+    <Compile Include="_Base\FormBase\_Forms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_Base\FormBase\_Forms.Designer.cs">
+      <DependentUpon>_Forms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\NumericTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\frmPopupBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\frmPopupBase.designer.cs">
+      <DependentUpon>frmPopupBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\Popup\frmPopupSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\frmPopupSearch.designer.cs">
+      <DependentUpon>frmPopupSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\Popup\IPopup.cs" />
+    <Compile Include="_Base\Popup\PopupBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\PopupBox.designer.cs">
+      <DependentUpon>PopupBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\Popup\PopupBoxPublic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\PopupBoxPublic.designer.cs">
+      <DependentUpon>PopupBoxPublic.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

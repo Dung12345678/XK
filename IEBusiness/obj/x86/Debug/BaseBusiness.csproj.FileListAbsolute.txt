@@ -1,0 +1,213 @@
+F:\APP_2012\BMS\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_30_10_12\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\Project\BMS\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+E:\APP_2012\BMS\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+E:\APP_2012\BMS\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.csproj.GenerateResource.Cache
+D:\Project\BMS\BaseBusiness\obj\x86\Debug\BaseBusiness.csprojResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_18_01_13\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+E:\APP_2012\BMS\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_24_01_13_17h\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BaseBusiness.csproj.GenerateResource.Cache
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\Project\BMS_CODE_26_01_13\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Project\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Project\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Project\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Code\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Code\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\BMS\BMS Code\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\BMS\BMS Code\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BaseBusiness.csproj.GenerateResource.Cache
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\BMS\BMS Code\BaseBusiness\obj\x86\Debug\BaseBusiness.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\BMS\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.csproj.GenerateResource.Cache
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\BMS\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.csprojResolveAssemblyReference.cache
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.csproj.GenerateResource.Cache
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb

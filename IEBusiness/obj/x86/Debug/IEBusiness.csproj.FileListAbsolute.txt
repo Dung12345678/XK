@@ -1,0 +1,340 @@
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Thao\BMS Inventory Code\TPABusiness\bin\x86\Debug\IEBusiness.dll
+D:\Thao\BMS Inventory Code\TPABusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.dll
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Thao\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\Thao\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Data.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Data.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Data.v11.1.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Data.v11.1.xml
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.xml
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CopyComplete
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+G:\NVTHAO\Project\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Data.v11.1.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Data.v11.1.xml
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.xml
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CopyComplete
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+F:\TECHNICAL\NVTHAO\0.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\IEBusiness\bin\x86\Debug\IEBusiness.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PM_01-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\Project\SIMOTOMO\PM\2020-08-18\PM_17-08-2020\PM_17-08-2020\PM\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Project\Sumitomo\PM\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\Project\Sumitomo\PM\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Project\Sumitomo\PM\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\Project\Sumitomo\PM\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Project\Sumitomo\PM\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\Project\Sumitomo\PM\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\Project\Sumitomo\PM\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\Project\Sumitomo\PM\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Project\Sumitomo\PM-19-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\Project\Sumitomo\PM-19-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Project\Sumitomo\PM-19-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\Project\Sumitomo\PM-19-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\Project\Sumitomo\PM-19-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\Project\Sumitomo\PM-19-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Project\Sumitomo\PM-19-08-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\Project\Sumitomo\PM-19-08-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM-21-08-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM-21-08-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM-21-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM-21-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM-21-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM-21-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM-21-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM-21-08-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+F:\TECHNICAL\NVTHAO\4.Project\1.Sumitomo\Code\PM\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\PMBackup\PM-05-09-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\PMBackup\PM-05-09-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\PMBackup\PM-05-09-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-09-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-13-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-13-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-13-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-13-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-13-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-13-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-13-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-13-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-19-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-21-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-26-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-30-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-30-10-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-30-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-30-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-30-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-30-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-30-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-30-10-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\Project\Sumitomo\09-11-2020\SumitomoBackup-07-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Project\Sumitomo\13-11-2020\SumitomoBackup-12-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\Project\Sumitomo\13-11-2020\SumitomoBackup-12-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Project\Sumitomo\13-11-2020\SumitomoBackup-12-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\Project\Sumitomo\13-11-2020\SumitomoBackup-12-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Project\Sumitomo\13-11-2020\SumitomoBackup-12-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\Project\Sumitomo\13-11-2020\SumitomoBackup-12-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\Project\Sumitomo\13-11-2020\SumitomoBackup-12-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\Project\Sumitomo\13-11-2020\SumitomoBackup-12-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\Athao\SumitomoBackup-13-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\Athao\SumitomoBackup-13-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\Athao\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\Athao\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\Athao\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\Athao\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\Athao\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\Athao\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-13-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-13-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-13-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+C:\project\Sumitomo\PM\SumitomoBackup-26-11-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+C:\project\Sumitomo\PM\SumitomoBackup-04-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-05-01-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-05-01-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-05-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-05-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-05-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-05-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-05-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-05-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\old\SumitomoBackup-13-01-2020\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\PM\Current\SumitomoBackup-28-01-2021-Current\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021 - Copy\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021 - Copy\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.csprojAssemblyReference.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\Line\Hyponic\AnDonPicking\XK-04-03-2021 - Copy\IEBusiness\obj\x86\Debug\IEBusiness.pdb

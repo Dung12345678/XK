@@ -1,0 +1,45 @@
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\bin\x86\Debug\TPABusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\bin\x86\Debug\TPABusiness.pdb
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\TPABusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\TPABusiness.pdb
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache

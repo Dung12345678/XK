@@ -1,0 +1,2 @@
+Tên app | Đường dẫn chứa file zip ở local | Đường dẫn chứa file zip trên server | Đường dẫn chứa file config version
+RTCLine || UpdateVersion || UpdateVersion\XuatKhoHyp || Version.txt
